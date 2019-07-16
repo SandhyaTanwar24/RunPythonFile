@@ -1,4 +1,4 @@
 # RunPythonFile
 First Test Repo  
 
-I Love :coffee: :pizza:,
+This is for learning purpose
